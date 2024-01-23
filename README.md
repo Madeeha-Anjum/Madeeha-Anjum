@@ -2,8 +2,8 @@
 
 👋 Hi there! I'm Madeeha, a passionate developer with a drive to build great software. Currently finished proejcts:
 
-- 🚀 [Purlto](https://github.com/Madeeha-Anjum/purlto): An open-source URL shortener crafted with Node.js, TypeScript, React, and Docker.
-- 🌐 [Hustle Auto](https://github.com/Hustle-Auto/hustle-auto-main): Transforming mobile/in-house car detailing services in Calgary.
+- 🚀 [Purlto](https://github.com/Madeeha-Anjum/purlto): An open-source URL shortener crafted with Node.js, TypeScript, React, and Docker. Stastus 👇 down for now
+- 🌐 [Hustle Auto](https://github.com/Hustle-Auto/hustle-auto-main): Transforming mobile/in-house car detailing services in Calgary. Status 👇 down for now
 - ✨ [Timeey](https://github.com/Madeeha-Anjum/timeey-client): A sophisticated time management app developed in TypeScript and React.
 - 🤖 [Matrix](https://github.com/Madeeha-Anjum/matrix): A file system in React using recursive programming techniques.
 
