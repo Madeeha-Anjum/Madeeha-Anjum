@@ -12,7 +12,7 @@ Additionally, explore some of my shorter adventures:
 - [Gmapy](https://github.com/Madeeha-Anjum/gmapy): An interactive Google Map with markers for locations.
 - [JWT](https://github.com/Madeeha-Anjum/jwt): Exploring JSON Web Tokens and FastAPI.
 
-Oh, by the way, don't miss [Puzzling Problems](link-to-puzzling-problems-repo), where I tackle LeetCode problems.
+Oh, by the way, don't miss [Puzzling Problems](https://github.com/Madeeha-Anjum/puzzling-problems), where I tackle LeetCode problems.
 
 💡 **Skills:** Django, FastAPI, Postgres, SQL, JavaScript, TypeScript, React, Python, Vue, and more!
 
